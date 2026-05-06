@@ -62,5 +62,5 @@ Al ejecutar el proyecto, lo que nos aparece es una ventana con 3 pestañas inter
 
 La segunda pestaña, llamada Agentes, tiene la función de crear los agentes indicándole el nombre a través de un **TextField**, el saldo a través de un **Spiner** en el que el salario se introducirá por un número en formato double y a la derecha un **ScrollPane** en el que hay una **JList** en el que se verán los agentes que se van añadiendo en la aplicación con un botón de añadir en el pie de la vetana.
 
-Cuando se añade se ve en la lista el nombre del agente, el saldo y el ID a la izquierda de todo, en el que irá incrementando a medida que se van añadiendo agentes
+Cuando se añade se ve en la lista el nombre del agente, el saldo y el ID a la izquierda de todo, en el que irá incrementando a medida que se van añadiendo estos agentes
 
