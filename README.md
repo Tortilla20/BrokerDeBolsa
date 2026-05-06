@@ -3,6 +3,8 @@
 
 <p align="center">Aplicación que simula un pequeño mercado de compra y venta entre Agentes a través de una gráfica realizada por varias interfaces gráficas</p>
 
+- - -
+
 ## Requisitos del Proyecto
 
 1. **Java 25** - El proyecto se realizó utilizando Java 25, por lo que para su ejecución se recomienda ejecutarlo en esa versión o en versiones futuras superiores a ella
