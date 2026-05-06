@@ -54,8 +54,13 @@ La estructura del proyecto tiene los siguiente paquetes y clases relizados en un
 
 ## Explicación funcionalidades
 
-Al ejecutar el proyecto, lo que nos aparece es una ventana con 3 pestañas intercambiables entre sí en la que podemos ver, así de primeras, una gráfica que se actualiza en tiempo real como se muestra en la imagen de abajo
+Al ejecutar el proyecto, lo que nos aparece es una ventana con 3 pestañas intercambiables entre sí en la que podemos ver, así de primeras, la primera pestaña en la que aparece la gráfica que se actualiza en tiempo real como se muestra en la imagen de abajo
 
 <p align="center">
   <img src="mediaReadme/grafica.png" alt="Alt">
 </p>
+
+La segunda pestaña, llamada Agentes, tiene la función de crear los agentes indicándole el nombre a través de un **TextField**, el saldo a través de un **Spiner** en el que el salario se introducirá por un número en formato double y a la derecha un **ScrollPane** en el que hay una **JList** en el que se verán los agentes que se van añadiendo en la aplicación con un botón de añadir en el pie de la vetana.
+
+Cuando se añade se ve en la lista el nombre del agente, el saldo y el ID a la izquierda de todo, en el que irá incrementando a medida que se van añadiendo agentes
+
