@@ -68,3 +68,6 @@ La segunda pestaña, llamada Agentes, tiene la función de crear los agentes ind
 
 Cuando se añade se ve en la lista el nombre del agente, el saldo y el ID a la izquierda de todo, en el que irá incrementando a medida que se van añadiendo estos agentes
 
+<p align="center">
+  <img src="mediaReadme/agentes.png" alt="Alt">
+</p>
