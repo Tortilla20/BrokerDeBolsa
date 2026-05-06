@@ -37,15 +37,21 @@ La estructura del proyecto tiene los siguiente paquetes y clases relizados en un
 - 📦 com.mycompany.brokerdebolsarecuperacion
   - 📄 BrokerDeBolsaRecuperacion.java
 - 📦 controller
-- - 📄 Broker.java
-- - 📄 FrontController.java
-- - 📄 GraficaBolsa.java
-- - 📄 TareaBolsa.java
-📦 model
-- 📄 Agente.java
-- 📄 Operacion.java
-📦 persistencia
-- 📄 GuardarAgente.java
-- 📄 GuardarOperacion.java
-📦 view
-- 📄 MainFrame.java
+  - 📄 Broker.java
+  - 📄 FrontController.java
+  - 📄 GraficaBolsa.java
+  - 📄 TareaBolsa.java
+- 📦 model
+  - 📄 Agente.java
+  - 📄 Operacion.java
+- 📦 persistencia
+  - 📄 GuardarAgente.java
+  - 📄 GuardarOperacion.java
+- 📦 view
+  - 📄 MainFrame.java
+
+- - -
+
+## Explicación funcionalidades
+
+
