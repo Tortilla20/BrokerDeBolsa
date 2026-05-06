@@ -32,6 +32,10 @@ Como se explicó antes, este proyecto está realizado en Maven, por lo que las d
 
 ## Estructura del proyecto
 
+<p align="center">
+  <img src="mediaReadme/agentes.png" alt="Alt">
+</p>
+
 La estructura del proyecto tiene los siguiente paquetes y clases relizados en un modelo MVC - Modelo, Vista y Controlador:
 
 - 📦 com.mycompany.brokerdebolsarecuperacion
