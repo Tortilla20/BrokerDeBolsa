@@ -71,3 +71,5 @@ Cuando se añade se ve en la lista el nombre del agente, el saldo y el ID a la i
 <p align="center">
   <img src="mediaReadme/agentes.png" alt="Alt">
 </p>
+
+Para la útltima pestaña, como se ve en la imágen, es la pestaña de operaciones, en la que hay un **ComboBox** en el que se puede escoger el agente añadido anteriormente en la pestaña mencionada, el tipo, que es la acción que quiere realizar el agente, puediendo ser de **Compra** y otra de **Venta**, el precio a la que quiere que se ralealice la operación, y la cantidad, siendo estos dos últimos un **Spinner** a indicar la cantidad
