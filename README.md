@@ -18,11 +18,11 @@ Como se explicó antes, este proyecto está realizado en Maven, por lo que las d
 - La primera dependencia que se añadió fue el **JFreeChart**, que su función es pintar la gráfica en tiempo real a través de la interfaz gráfica
 
 <p align="center">
-  <img src="mediaReadme/diagrama1.png" alt="Alt">
+  <img src="mediaReadme/dependencia1.png" alt="Alt">
 </p>
 
 - La segunda dependencia fue **Gson** que hace la función de guardar los agentes y las operaciones en un archivo de esa extensión, con la casuistica de que no se utilizó, ya que estos datos se guardan en archivos .TXT para que el desarrollo del código fuera más fácil pero se deja la dependencia instalada por si en el futuro se necesita o se quiere usar esa extensión 
 
 <p align="center">
-  <img src="mediaReadme/diagrama2.png" alt="Alt">
+  <img src="mediaReadme/dependencia2.png" alt="Alt">
 </p>
