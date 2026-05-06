@@ -11,6 +11,7 @@
 2. **Maven** - También cabe destacar que se completo en Maven, con lo que las librerías que se necesitaron, están cubiertas en el archivo pom.xml en el que se hablará después
 3. **Netbeans** - Por útlimo, se utilizó el IDE Netbeans en el que se escribió el código y se añadiron las interfaces gráficas, por lo que se recomienda, aunque no es necesario, utilizar este IDE para su ejecución
 
+- - -
 
 ## Dependencias
 
@@ -26,3 +27,8 @@ Como se explicó antes, este proyecto está realizado en Maven, por lo que las d
 <p align="center">
   <img src="mediaReadme/dependencia2.png" alt="Alt">
 </p>
+
+- - - 
+
+## Estructura del proyecto
+
