@@ -35,7 +35,7 @@ Como se explicó antes, este proyecto está realizado en Maven, por lo que las d
 La estructura del proyecto tiene los siguiente paquetes y clases relizados en un modelo MVC - Modelo, Vista y Controlador:
 
 - 📦 com.mycompany.brokerdebolsarecuperacion
-- - 📄 BrokerDeBolsaRecuperacion.java
+  - 📄 BrokerDeBolsaRecuperacion.java
 - 📦 controller
 - - 📄 Broker.java
 - - 📄 FrontController.java
