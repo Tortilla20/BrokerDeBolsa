@@ -10,3 +10,10 @@
 1. **Java 25** - El proyecto se realizó utilizando Java 25, por lo que para su ejecución se recomienda ejecutarlo en esa versión o en versiones futuras superiores a ella
 2. **Maven** - También cabe destacar que se completo en Maven, con lo que las librerías que se necesitaron, están cubiertas en el archivo pom.xml en el que se hablará después
 3. **Netbeans** - Por útlimo, se utilizó el IDE Netbeans en el que se escribió el código y se añadiron las interfaces gráficas, por lo que se recomienda, aunque no es necesario, utilizar este IDE para su ejecución
+
+
+## Dependencias
+
+Como se explicó antes, este proyecto está realizado en Maven, por lo que las dependecias que se necesitaron, que para el proyecto fueron 2 concretamente, están añadidas en el pom.xml.
+La primera dependencia que se añadió fue el **JFreeChart**, que su función es pintar la gráfica en tiempo real a través de la interfaz gráfica
+La segunda dependencia fue **Gson** que hace la función de guardar los agentes y las operaciones en un archivo de esa extensión, con la casuistica de que no se utilizó, ya que estos datos se guardan en archivos .TXT para que el desarrollo del código fuera más fácil pero se deja la dependencia instalada por si en el futuro se necesita o se quiere usar esa extensión 
