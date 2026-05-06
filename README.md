@@ -54,4 +54,8 @@ La estructura del proyecto tiene los siguiente paquetes y clases relizados en un
 
 ## Explicación funcionalidades
 
+Al ejecutar el proyecto, lo que nos aparece es una ventana con 3 pestañas intercambiables entre sí en la que podemos ver, así de primeras, una gráfica que se actualiza en tiempo real como se muestra en la imagen de abajo
 
+<p align="center">
+  <img src="mediaReadme/grafica.png" alt="Alt">
+</p>
