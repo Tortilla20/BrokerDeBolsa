@@ -2,10 +2,15 @@
 <p align="center">Iván Duro Fernández</p>
 
 ## Índice
+- [Breve Explicación](#breve-explicación)
 - [Requisitos del Proyecto](#requisitos-del-proyecto)
 - [Dependencias](#dependencias)
 - [Estructura del proyecto](#Estructura-del-proyecto)
 - [Explicación de funcionalidades](#explicación-de-funcionalidades)
+
+- - -
+
+## Breve Explicación
 
 <p align="center">Aplicación que simula un pequeño mercado de compra y venta entre Agentes a través de una gráfica realizada por varias interfaces gráficas</p>
 
