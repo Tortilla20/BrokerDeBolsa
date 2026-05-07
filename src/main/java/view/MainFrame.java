@@ -243,12 +243,12 @@ public class MainFrame extends javax.swing.JFrame {
         ((DefaultListModel) agentesList.getModel()).clear();
     }
 
-    public void addAñadirAgenteButtonListener(ActionListener al) {
+    public void addAnhadirAgenteButtonListener(ActionListener al) {
         anhadirButton.addActionListener(al);
     }
 
     // Metodos de la pestaña Operaciones
-    public void añadirItemComboBoxAgentes(String item) {
+    public void addAnhadirItemComboBoxAgentes(String item) {
         agentesComboBox.addItem(item);
     }
 
