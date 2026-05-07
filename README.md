@@ -1,6 +1,12 @@
 <h1 align="center">Broker de Bolsa</h1>
 <p align="center">Iván Duro Fernández</p>
 
+## Índice
+- [Requisitos del Proyecto](#requisitos-del-proyecto)
+- [Dependencias](#dependencias)
+- [Estructura del proyecto](#Estructura-del-proyecto)
+- [Explicación de funcionalidades](#explicación-de-funcionalidades)
+
 <p align="center">Aplicación que simula un pequeño mercado de compra y venta entre Agentes a través de una gráfica realizada por varias interfaces gráficas</p>
 
 - - -
@@ -56,7 +62,7 @@ La estructura del proyecto tiene los siguiente paquetes y clases relizados en un
 
 - - -
 
-## Explicación funcionalidades
+## Explicación de funcionalidades
 
 Al ejecutar el proyecto, lo que nos aparece es una ventana con 3 pestañas intercambiables entre sí en la que podemos ver, así de primeras, la primera pestaña en la que aparece la gráfica que se actualiza en tiempo real como se muestra en la imagen de abajo
 
