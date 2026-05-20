@@ -19,7 +19,6 @@ import org.jfree.data.time.TimeSeriesCollection;
  * @author idurfer
  */
 
-//Clase que actualiza la grafica con el precio del broker actual en ese momento
 public class GraficaBolsa implements Runnable {
 
     private TimeSeries serie;

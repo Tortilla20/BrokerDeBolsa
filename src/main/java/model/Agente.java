@@ -10,14 +10,14 @@ package model;
  */
 
 // Agente que participa en las negociaciones
-// Tiene un slado, y una oparacion de compra y venta 
+
 public class Agente {
     
     private int id;
     private String nombre;
     private double saldo;
-    private transient Operacion operacionCompra;
-    private transient Operacion operacionVenta;
+    private Operacion operacionCompra;
+    private Operacion operacionVenta;
 
     public Agente(int id, String nombre, double saldo) {
         this.id = id;

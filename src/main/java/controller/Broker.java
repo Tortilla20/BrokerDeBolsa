@@ -15,8 +15,7 @@ import model.Operacion;
  *
  * @author idurfer
  */
-// Clase del estado del mercado 
-// Guarda el precio actual con los agentes y las listas de operaciones pendientes
+
 // Introducir metodos con synchronized para evitar problemas con los hilos
 public class Broker {
 
@@ -75,11 +74,11 @@ public class Broker {
         operacionVenta.remove(operacion);
     }
 
-    public double getPrecioActual() {
+    public synchronized double getPrecioActual() {
         return precioActual;
     }
 
-    public void setPrecioActual(double precioActual) {
+    public synchronized void setPrecioActual(double precioActual) {
         this.precioActual = precioActual;
     }
 

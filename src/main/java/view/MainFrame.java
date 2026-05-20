@@ -226,7 +226,7 @@ public class MainFrame extends javax.swing.JFrame {
         return graficaPanel;
     }
 
-    // Metodos de la pestaña Agentes
+    // Metodos de la pestanha Agentes
     public String getNombreTextField() {
         return nombreTextField.getText();
     }
@@ -247,7 +247,7 @@ public class MainFrame extends javax.swing.JFrame {
         anhadirButton.addActionListener(al);
     }
 
-    // Metodos de la pestaña Operaciones
+    // Metodos de la pestanha Operaciones
     public void addAnhadirItemComboBoxAgentes(String item) {
         agentesComboBox.addItem(item);
     }

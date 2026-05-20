@@ -51,7 +51,7 @@ public class GuardarOperacion {
                 double limite = Double.parseDouble(datos[2]);
                 int cantidad = Integer.parseInt(datos[3]);
                 // Acordarse de que la referencia al agente ira en el main despues de cargar
-                lista.add(new Operacion(tipo, limite, cantidad, null));
+                lista.add(new Operacion(tipo, limite, cantidad, idAgente));
             }
         } catch (IOException ex) {
             System.out.println("Error: " + ex.getMessage());

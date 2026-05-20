@@ -14,7 +14,6 @@ import persistencia.GuardarAgente;
  * @author idurfer
  */
 
-// Clase que se ejecutaria en segundo plano si hay operaciones de venta o compra
 public class TareaBolsa implements Runnable{
 
     private Broker broker;
@@ -23,7 +22,7 @@ public class TareaBolsa implements Runnable{
         this.broker = broker;
     }
     
-    //Logica - hacer que compruebe si una mejor compra y una mejor venta se cruzan
+    //hacer que compruebe si una mejor compra y una mejor venta se cruzan
     private void ejecutar() {
         synchronized (broker) {
             Operacion compra = broker.getCompraCarilla();

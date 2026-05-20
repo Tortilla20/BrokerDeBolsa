@@ -8,14 +8,14 @@ package model;
  *
  * @author idurfer
  */
-//Esta clase realiza la orden de compra o de venta de uno o varios agentes
+
 public class Operacion {
 
     private String tipo;
     private double limite;
     private int cantidad;
     private int idAgente;
-    private transient Agente referenciaIdAgente;
+    private Agente referenciaIdAgente;
 
     public Operacion(String tipo, double limite, int cantidad, Agente agente) {
         this.tipo = tipo;
